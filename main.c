@@ -2,8 +2,7 @@
 //  main.c
 //  Fibonacci
 //
-//  Created by Jacob Bennett on 10/19/17.
-//  Copyright © 2017 CSCI. All rights reserved.
+//
 //
 
 #include <stdio.h>
